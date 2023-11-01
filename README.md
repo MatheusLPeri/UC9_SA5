@@ -5,5 +5,5 @@
 Projeto simples criado com a finalidade de demonstrar o uso correto do GitHub.
 
 #### Tecnologias utilizadas:
-* Java
 * HTML
+* CSS
